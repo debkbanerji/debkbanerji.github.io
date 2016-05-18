@@ -1,0 +1,13 @@
+#main-banner {
+    width: 100%;
+    height: 50vh;
+}
+
+#main-banner-image{
+    background-image: url("../images/Deb_Banerji_Campanile_Cropped.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0px;
+    width: 100%;
+    height: 50vh;
+}
