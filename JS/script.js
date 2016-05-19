@@ -12,14 +12,18 @@ window.requestAnimationFrame = window.requestAnimationFrame
     };
 
 var bannerImage = document.getElementById('main-banner-image');
+var resumeButton = document.getElementById('resume-button')
 
-function scrollBanner() {
+function updateScroll() {
     var scrollOffset = window.pageYOffset; //store number of pixels the document has scrolled down
-    var backgroundPosition = '50% ' + (scrollOffset * 0.5) + 'px';
-    bannerImage.style.backgroundPosition = backgroundPosition;
-
+    // var backgroundPosition = '50% ' + (scrollOffset * 0.5) + 'px';
+    bannerImage.style.backgroundPosition = '50% ' + (scrollOffset * 0.5) + 'px';
+    var transparency = scrollOffset * 0.002;
+    var backgroundString = 'rgba(255,0,0,' + transparency + ')';
+    console.log(backgroundString);
+    resumeButton.style.backgroundColor = backgroundString;
 }
 
 window.addEventListener('scroll', function () { // on page scroll
-    requestAnimationFrame(scrollBanner); // call parallaxbubbles() on next available screen paint
+    requestAnimationFrame(updateScroll); // call updateScroll() on next available screen paint
 }, false);

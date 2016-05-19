@@ -1,9 +1,3 @@
-/*#main-banner-wrapper {*/
-    /*width: 100%;*/
-    /*padding-bottom: 75%;*/
-    /*background:gold; !** <-- For the demo **!*/
-/*}*/
-
 #main-banner {
     width: 100%;
     height: 50vw;
@@ -16,4 +10,16 @@
     background-position: 50% 0px;
     width: inherit;
     height: inherit;
+}
+#resume-button-wrapper {
+    text-align: center;
+}
+
+#resume-button {
+    border-radius: 0;
+    text-align: center;
+    width: 80vw;
+    height: 10vw;
+    font-size: x-large;
+    background-color: rgba(255,0,0,0);
 }
