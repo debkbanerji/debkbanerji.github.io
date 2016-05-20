@@ -18,7 +18,7 @@ function updateScroll() {
     var scrollOffset = window.pageYOffset; //store number of pixels the document has scrolled down
     // var backgroundPosition = '50% ' + (scrollOffset * 0.5) + 'px';
     bannerImage.style.backgroundPosition = '50% ' + (scrollOffset * 0.5) + 'px';
-    var transparency = scrollOffset * 0.002;
+    var transparency = (scrollOffset + 30) * 0.002;
     var backgroundString = 'rgba(255,0,0,' + transparency + ')';
     console.log(backgroundString);
     resumeButton.style.backgroundColor = backgroundString;
