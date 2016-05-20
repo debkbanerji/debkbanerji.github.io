@@ -1,9 +1,13 @@
+p, a, h1, h2 {
+    font-family: "Courier New", sans-serif;
+}
+
 #main-banner {
     width: 100%;
     height: 50vw;
 }
 
-#main-banner-image{
+#main-banner-image {
     background-image: url("../images/Deb_Banerji_Shirts.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,21 +15,60 @@
     width: inherit;
     height: inherit;
 }
-#resume-button-wrapper {
-    text-align: center;
+
+#current-tab {
+    background-color: #ff5555;
+    color: #ffffff;
 }
 
-#resume-button {
-    border-radius: 0;
-    text-align: center;
-    width: 80vw;
-    height: 10vw;
-    font-size: x-large;
-    background-color: rgba(255,0,0,0);
+/*#resume-button-wrapper {*/
+/*text-align: center;*/
+/*}*/
+
+/*#resume-button {*/
+/*border-radius: 0;*/
+/*text-align: center;*/
+/*width: 80vw;*/
+/*height: 10vw;*/
+/*font-size: x-large;*/
+/*background-color: rgba(255,0,0,0);*/
+/*}*/
+
+/* Overline Reveal */
+.hvr-overline-reveal {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    overflow: hidden;
 }
 
-
-
-p, a, h1, h2{
-    font-family: Inconsolata, "Courier New", sans-serif;
+.hvr-overline-reveal:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    right: 0;
+    top: 0;
+    background: #ff5555;
+    height: 4px;
+    -webkit-transform: translateY(-4px);
+    transform: translateY(-4px);
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
 }
+
+.hvr-overline-reveal:hover:before, .hvr-overline-reveal:focus:before{
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+}
+
