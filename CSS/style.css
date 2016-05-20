@@ -24,7 +24,8 @@
     background-color: rgba(255,0,0,0);
 }
 
-button.btn:focus {
-    border-width: 0;
-    outline: red;
+
+
+p, a, h1, h2{
+    font-family: Inconsolata, "Courier New", sans-serif;
 }
