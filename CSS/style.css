@@ -2,18 +2,14 @@ p, a, h1, h2 {
     font-family: "Courier New", sans-serif;
 }
 
-#main-banner {
-    width: 100%;
-    height: 50vw;
-}
 
 #main-banner-image {
     background-image: url("../images/Deb_Banerji_Shirts.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0px;
-    width: inherit;
-    height: inherit;
+    width: 100%;
+    height: 50vw;
 }
 
 #current-tab {
