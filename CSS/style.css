@@ -1,4 +1,4 @@
-p, a, h1, h2 {
+p, a, h1, h2, h3 {
     font-family: "Courier New", sans-serif;
 }
 
@@ -66,5 +66,16 @@ p, a, h1, h2 {
 .hvr-overline-reveal:hover:before, .hvr-overline-reveal:focus:before{
     -webkit-transform: translateY(0);
     transform: translateY(0);
+}
+
+/*Tool Logos:*/
+.tool {
+    text-align: center;
+    align-content: center;
+}
+
+h3 {
+    /*white-space: nowrap;*/
+    font-size: large;
 }
 
