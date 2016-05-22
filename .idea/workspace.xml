@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558a3c16-68c8-4f82-948d-50b15d82529c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skills.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tools/CSS3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Android.png" afterPath="$PROJECT_DIR$/images/tools/Android.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Arduino.png" afterPath="$PROJECT_DIR$/images/tools/Arduino.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Bash.png" afterPath="$PROJECT_DIR$/images/tools/Bash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Boostrap.png" afterPath="$PROJECT_DIR$/images/tools/Boostrap.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/C++.png" afterPath="$PROJECT_DIR$/images/tools/C++.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/C.png" afterPath="$PROJECT_DIR$/images/tools/C.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Csharp.png" afterPath="$PROJECT_DIR$/images/tools/Csharp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Git.png" afterPath="$PROJECT_DIR$/images/tools/Git.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/HTML5.png" afterPath="$PROJECT_DIR$/images/tools/HTML5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/JSON.png" afterPath="$PROJECT_DIR$/images/tools/JSON.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Java.png" afterPath="$PROJECT_DIR$/images/tools/Java.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/JavaScript.png" afterPath="$PROJECT_DIR$/images/tools/JavaScript.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/RaspberryPi.png" afterPath="$PROJECT_DIR$/images/tools/RaspberryPi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/SQL.png" afterPath="$PROJECT_DIR$/images/tools/SQL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Unity.png" afterPath="$PROJECT_DIR$/images/tools/Unity.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
     </list>
     <ignored path="debkbanerji.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,28 +44,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
+            <state relative-caret-position="391">
               <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skills.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+            <state relative-caret-position="680">
+              <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="77" column="26" selection-start-line="77" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="645">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,9 +96,9 @@
         <option value="$PROJECT_DIR$/CSS/bootstrap-theme.min.css" />
         <option value="$PROJECT_DIR$/JS/script.js" />
         <option value="$PROJECT_DIR$/projects.html" />
-        <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/style.css" />
+        <option value="$PROJECT_DIR$/skills.html" />
       </list>
     </option>
   </component>
@@ -199,32 +212,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debkbanerji.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="debkbanerji.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="CSS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,15 +335,16 @@
       <workItem from="1463808596384" duration="120000" />
       <workItem from="1463819255693" duration="2356000" />
       <workItem from="1463822120567" duration="2247000" />
-      <workItem from="1463836166342" duration="6641000" />
+      <workItem from="1463836166342" duration="7166000" />
+      <workItem from="1463889292910" duration="3180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57264000" />
+    <option name="totallyTimeSpent" value="60969000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29227558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -733,24 +729,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
+        <state relative-caret-position="391">
           <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="645">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
           <folding />
         </state>
       </provider>

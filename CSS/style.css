@@ -74,6 +74,10 @@ p, a, h1, h2, h3 {
     align-content: center;
 }
 
+.tool-image {
+    width: 500px;
+}
+
 h3 {
     /*white-space: nowrap;*/
     font-size: large;
