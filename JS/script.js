@@ -33,3 +33,7 @@ window.addEventListener('scroll', function () { // on page scroll
 //     console.log(navBarItems[i]);
 //     navBarItems[i].addEventListener("click", navBarItems[i].blur);
 // }
+
+$('.carousel').carousel({
+    interval: false
+});
