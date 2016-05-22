@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="558a3c16-68c8-4f82-948d-50b15d82529c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tools/CSS3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Android.png" afterPath="$PROJECT_DIR$/images/tools/Android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Arduino.png" afterPath="$PROJECT_DIR$/images/tools/Arduino.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Bash.png" afterPath="$PROJECT_DIR$/images/tools/Bash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Boostrap.png" afterPath="$PROJECT_DIR$/images/tools/Boostrap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/C++.png" afterPath="$PROJECT_DIR$/images/tools/C++.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/C.png" afterPath="$PROJECT_DIR$/images/tools/C.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Csharp.png" afterPath="$PROJECT_DIR$/images/tools/Csharp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Git.png" afterPath="$PROJECT_DIR$/images/tools/Git.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/HTML5.png" afterPath="$PROJECT_DIR$/images/tools/HTML5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/JSON.png" afterPath="$PROJECT_DIR$/images/tools/JSON.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Java.png" afterPath="$PROJECT_DIR$/images/tools/Java.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/JavaScript.png" afterPath="$PROJECT_DIR$/images/tools/JavaScript.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/RaspberryPi.png" afterPath="$PROJECT_DIR$/images/tools/RaspberryPi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/SQL.png" afterPath="$PROJECT_DIR$/images/tools/SQL.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tools/Unity.png" afterPath="$PROJECT_DIR$/images/tools/Unity.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
     </list>
     <ignored path="debkbanerji.github.io.iws" />
@@ -54,8 +37,8 @@
       <file leaf-file-name="skills.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+            <state relative-caret-position="606">
+              <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -64,7 +47,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="1309">
               <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
@@ -336,12 +319,13 @@
       <workItem from="1463819255693" duration="2356000" />
       <workItem from="1463822120567" duration="2247000" />
       <workItem from="1463836166342" duration="7166000" />
-      <workItem from="1463889292910" duration="3180000" />
+      <workItem from="1463889292910" duration="3310000" />
+      <workItem from="1463895742115" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60969000" />
+    <option name="totallyTimeSpent" value="61159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -737,7 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="1309">
           <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
@@ -745,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
+        <state relative-caret-position="606">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
           <folding />
         </state>
       </provider>
