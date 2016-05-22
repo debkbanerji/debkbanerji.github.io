@@ -1,7 +1,7 @@
+CS^2
 Labyrinth
-WingBuddy
+Simple Player
+Snapnews
 Syncloud
 Teeny Chat
-CSS
-Snapnews
-Simple-Player
+WingBuddy

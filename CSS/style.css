@@ -2,6 +2,14 @@ p, a, h1, h2, h3 {
     font-family: "Courier New", sans-serif;
 }
 
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+h3 {
+    /*white-space: nowrap;*/
+    font-size: large;
+}
 
 #main-banner-image {
     background-image: url("../images/Deb_Banerji_Shirts.jpg");
@@ -31,7 +39,44 @@ p, a, h1, h2, h3 {
 /*}*/
 
 /* Overline Reveal */
-.hvr-overline-reveal {
+/*.hvr-overline-reveal {*/
+/*display: inline-block;*/
+/*vertical-align: middle;*/
+/*-webkit-transform: translateZ(0);*/
+/*transform: translateZ(0);*/
+/*box-shadow: 0 0 1px rgba(0, 0, 0, 0);*/
+/*-webkit-backface-visibility: hidden;*/
+/*backface-visibility: hidden;*/
+/*-moz-osx-font-smoothing: grayscale;*/
+/*position: relative;*/
+/*overflow: hidden;*/
+/*}*/
+
+/*!*.hvr-overline-reveal:before {*!*/
+/*!*content: "";*!*/
+/*!*position: absolute;*!*/
+/*!*z-index: -1;*!*/
+/*!*left: 0;*!*/
+/*!*right: 0;*!*/
+/*!*top: 0;*!*/
+/*!*background: #ff5555;*!*/
+/*!*height: 4px;*!*/
+/*!*-webkit-transform: translateY(-4px);*!*/
+/*!*transform: translateY(-4px);*!*/
+/*!*-webkit-transition-property: transform;*!*/
+/*!*transition-property: transform;*!*/
+/*!*-webkit-transition-duration: 0.3s;*!*/
+/*!*transition-duration: 0.3s;*!*/
+/*!*-webkit-transition-timing-function: ease-out;*!*/
+/*!*transition-timing-function: ease-out;*!*/
+/*!*}*!*/
+
+/*!*.hvr-overline-reveal:hover:before, .hvr-overline-reveal:focus:before{*!*/
+/*!*-webkit-transform: translateY(0);*!*/
+/*!*transform: translateY(0);*!*/
+/*!*}*!*/
+
+.hvr-fade {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: translateZ(0);
@@ -40,32 +85,41 @@ p, a, h1, h2, h3 {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;
-    position: relative;
     overflow: hidden;
-}
-
-.hvr-overline-reveal:before {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    left: 0;
-    right: 0;
-    top: 0;
-    background: #ff5555;
-    height: 4px;
-    -webkit-transform: translateY(-4px);
-    transform: translateY(-4px);
-    -webkit-transition-property: transform;
-    transition-property: transform;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
-    -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;
+    -webkit-transition-property: color, background-color;
+    transition-property: color, background-color;
 }
 
-.hvr-overline-reveal:hover:before, .hvr-overline-reveal:focus:before{
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
+.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
+    background-color: #ffbbbb;
+    color: white;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-image: none !important;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color: #ffbbbb;
+}
+
+.carousel-indicators li {
+    background-color: transparent;
+    /*background-color: #ffbbbb;*/
+    border-width: 0;
+}
+
+.carousel-indicators .active {
+    background-color: transparent;
+    /*background-color: #ff5555;*/
+    border-width: 0;
+}
+
+.winner {
+    background-color: #ffec19;
+    color: #d98d00;
 }
 
 /*Tool Logos:*/
@@ -78,12 +132,12 @@ p, a, h1, h2, h3 {
     width: 500px;
 }
 
-
 .carousel .item {
     border-radius: 10px;
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     overflow: hidden;
 }
+
 .carousel-control {
     border-radius: 10px;
 }
@@ -93,9 +147,9 @@ p, a, h1, h2, h3 {
     overflow: hidden;
 }
 
-
-h3 {
-    /*white-space: nowrap;*/
-    font-size: large;
+/*Inline icons for project pages*/
+.icon-inline {
+    height: 1em;
+    solid-color:  #d98d00;
 }
 
