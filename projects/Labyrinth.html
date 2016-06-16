@@ -99,19 +99,19 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_0.png">
+                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_0.png" width="100%">
                 </div>
                 <div class="item">
-                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_1.jpg">
+                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_1.jpg" width="100%">
                 </div>
                 <div class="item">
-                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_2.jpg">
+                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_2.jpg" width="100%">
                 </div>
                 <div class="item">
-                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_3.jpg">
+                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_3.jpg" width="100%">
                 </div>
                 <div class="item">
-                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_4.jpg">
+                    <img class="img-responsive img-rounded" src="../images/projectScreenshots/Labyrinth_4.jpg" width="100%">
                 </div>
             </div>
 
@@ -132,8 +132,18 @@
 </body>
 </html>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-<link rel="stylesheet" href="../CSS/style.css">
+<link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"></noscript>
+<script id="load-bootstrap-css">
+    loadCSS( "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css", document.getElementById("load-bootstrap-css") );
+</script>
+
+<link rel="preload" href="../CSS/style.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="../CSS/style.css"></noscript>
+<script id="load-my-css">
+    loadCSS( "../CSS/style.css", document.getElementById("load-my-css") );
+</script>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<script src="../JS/script.js"></script>
+<script src="./JS/script.js"></script>
