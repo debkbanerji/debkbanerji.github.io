@@ -1,0 +1,58 @@
+Stacks and Queues always seem so easy.
+But trees are where it gets tricky.
+I haven't recursed in a while.
+Your add's slow, crappier than ever,
+It's O(n), can't get much better,
+Remove won't work and I know why.
+Because the last time I wrote you
+Is still burned in the back of my mind.
+You gave me free points and I left them there to die.
+
+So this is me swallowing my pride,
+Typing in front of you saying, "I'm sorry for those lines,"
+And I go back to BSTs all the time.
+It turns out AVL's nothing but missing you.
+Wishing I'd realized what I had when you were mine.
+I'd go back to BSTs, turn around and make the code right.
+I go back to BSTs all the time.
+
+These days I haven't been sleeping,
+Staying up, working on code all evening.
+When traversals made, my grades fall.
+And I think about adding, all the terrible times,
+I ended up recursing down the wrong side.
+Realized I messed up all the calls.
+
+And then the tests failed, the dark days when fear crept into my mind
+You gave me all those points and all I gave you was "Goodbye".
+
+So this is me swallowing my pride,
+Typing in front of you saying, "I'm sorry for those lines,"
+And I go back to BSTs all the time.
+It turns out AVL's nothing but missing you.
+Wishing I'd realized what I had when you were mine.
+I'd go back to BSTs, turn around and change my own lines.
+I go back to BSTs all the time.
+
+I miss your nice code, your short lines,
+So good to me, so right
+But then you failed all of those tests that September night
+The first time recursion made me cry.
+
+Maybe this is wishful thinking,
+Probably mindless dreaming,
+But if I had the chance, I swear I'd code you right.
+
+I'd go back in time and change it but I can't.
+So if I'm stuck with look ahead I understand.
+
+But this is me swallowing my pride
+Typing in front of you saying, "I'm sorry for those lines."
+And I go back to BSTs...
+It turns out AVL's nothing but missing you,
+Wishing I'd realized what I had when you were mine.
+I'd go back to BSTs, turn around and make the code right.
+I'd go back to BSTs, turn around and change my own lines
+
+I go back to BSTs all the time.
+All the time.

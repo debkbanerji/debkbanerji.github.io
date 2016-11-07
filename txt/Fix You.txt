@@ -1,0 +1,32 @@
+When you build the tree, but it won't succeed
+When you write what looks fine, but not what you need
+When it's due next day, and you can't sleep
+It won't recurse
+And the tears come streaming down your face
+When you lose some code you can't replace
+When traversals work, but they go to waste
+Could it be worse?
+
+Tests will guide you home
+And make right your code
+And they will try to fix you
+
+And as the lines just seem to grow
+When you wrote too much to let it go
+But if you never try you'll never know
+Just what it's worth
+
+Tests will guide you home
+And make right your code
+And they will try to fix you
+
+You miss an edge case
+When you lose some code you cannot replace
+You miss an edge case and I
+You miss an edge case
+I promise you you will learn from your mistakes
+You miss an edge case and I
+
+Tests will guide you home
+And make right your code
+And they will try to fix you
