@@ -101,6 +101,7 @@
                 <p>This page is a result of my poor decision to share my love of computer science parody music with the
                     world. As of now, most of these exist purely as lyrics, though I look forward to bringing them to
                     life whenever I have time, much to the dismay of my less technologically inclined friends.</p>
+                <audio src="./mp3/Back%20To%20BSTs.mp3" preload="auto">Your browser does not seem to support HTML 5 audio</audio>
             </div>
         </div>
     </div>
@@ -114,3 +115,9 @@
 <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script defer src="./JS/script.js"></script>
+<script src="./JS/audiojs/audio.min.js"></script>
+<script>
+    audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+    });
+</script>
