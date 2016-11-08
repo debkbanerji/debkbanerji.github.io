@@ -1,5 +1,5 @@
 p, a, h1, h2, h3 {
-    font-family: "Courier New", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 
 h1, h2, h3 {
@@ -111,19 +111,20 @@ h3 {
 /*Inline icons for project pages*/
 .icon-inline {
     height: 1em;
-    solid-color:  #d98d00;
+    solid-color: #d98d00;
 }
 
 .lyrics {
     text-align: center;
-    font-family: "Courier New", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 
-.lyrics-description {
-    text-align: left;
+.player-wrapper {
+    align-content: center;
+    display: inline-block;
 }
 
 .btn-lyrics {
     background-color: #ff5555;
-    font-family: "Courier New", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
