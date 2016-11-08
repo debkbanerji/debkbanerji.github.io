@@ -114,3 +114,16 @@ h3 {
     solid-color:  #d98d00;
 }
 
+.lyrics {
+    text-align: center;
+    font-family: "Courier New", sans-serif;
+}
+
+.lyrics-description {
+    text-align: left;
+}
+
+.btn-lyrics {
+    background-color: #ff5555;
+    font-family: "Courier New", sans-serif;
+}
