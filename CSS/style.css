@@ -12,18 +12,18 @@ h3 {
 }
 
 #main-banner-image {
-    background-image: url("../images/Deb_Banerji_Shirts.jpg");
+    background-image: url("../images/Gatech_brick_road_day.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0px;
     width: 100%;
-    height: 50vw;
+    height: 30vw;
     position: fixed;
     z-index: -1;
 }
 
 #header-push {
-    height: 50vw;
+    height: 30vw;
 }
 
 #current-tab {
