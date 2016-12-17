@@ -2,7 +2,7 @@ Midnight
 I'm looking at the screen in low light
 Long time,
 The code just may not work or might compile
-Fade into view, oh, it's been a while since those recursives worked for you (worked for you)
+Fade into view, oh, it's been a while since those recurses worked for you (worked for you)
 
 And I know they're nice to read but I
 know exactly where this leads and I
