@@ -129,24 +129,24 @@ h3 {
     font-family: "Helvetica", sans-serif;
 }
 
-.parent {
-    position: relative;
-}
+/*.parent {*/
+    /*position: relative;*/
+/*}*/
 
-.child {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-}
+/*.child {*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+/*}*/
 
-.row {
-    overflow: hidden;
-}
+/*.row {*/
+    /*overflow: hidden;*/
+/*}*/
 
-[class*="col-"] {
-    margin-bottom: -99999px;
-    padding-bottom: 99999px;
-}
+/*[class*="col-"] {*/
+    /*margin-bottom: -99999px;*/
+    /*padding-bottom: 99999px;*/
+/*}*/
 
 /*Panel Stuff*/
 .panel {
@@ -198,4 +198,20 @@ h3 {
     /*background-color: #eee*/
     background-color: #bbb
 
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
 }
