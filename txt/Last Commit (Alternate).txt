@@ -1,0 +1,69 @@
+I still remember the look on your face
+When I pushed to master at 1:58
+I didn't test it
+So how could I know
+I thought that it might work
+But everything broke today
+today
+
+I do recall now, all of that pain
+When 4 weeks of coding
+Went down the drain
+That July 9th
+When I broke your heart
+All of that code
+Lying dead in my arms
+
+So now I'll go patch up the branch
+Using old code
+All that I know is
+I don't know what I would do without Git
+Guess I'll just undo my last commit
+Never imagined I'd break all this
+My bug, forever the bug I can't fix
+
+I do remember I put you through hell
+When I messed up master, while showing off again
+And you rolled your eyes and then
+I just merged in
+I'm not much for rollbacks
+But this time I did
+
+Because I don't like testing, I don't even bother
+I hate how I led us to all of this horror
+How I merged in when you were in the middle of coding something
+That might have just saved us from all this destruction
+
+And I'll go patch up the branch
+Using old code
+All that I know is
+I don't know what I would do without Git
+Guess I'll just undo my last commit
+Never imagined I'd break all this
+My bug, forever the bug I can't fix
+
+So I'll rollback all the changes that had cost me so much sleep
+And I feel you forget just what made all my code so weak
+And I'll fish out all my old files if I know just where they are
+Hope I know where they are
+
+And I hope it compiles
+And it's a beautiful day
+And something reminds you
+To pray it won't break
+You can plan for a change in weather and time
+But I never planned on rewriting those lines
+
+So I'll go patch up the branch
+Using old code
+All that I know is
+I don't know what I would do without Git
+Guess I'll just undo my last commit
+Never imagined I'd break all this
+My bug, forever the bug I can't fix
+
+Just like my last commit
+Forever the bug I can't fix
+Forever the bug I can't fix
+
+Just like my last...
