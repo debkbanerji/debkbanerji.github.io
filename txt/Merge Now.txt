@@ -1,0 +1,68 @@
+I am not the kind of sort,
+That can be implemented in place on every occasion,
+But you don't have the kind of list,
+That should be playing well with quick sort
+
+You start to second guess,
+All of the decisions that put you through hell,
+And you are looking for the n-square,
+Somewhere back inside the codebase,
+Making it run slowly,
+This is surely not what you thought it would be,
+I lose myself in a daydream,
+Where I stand and say
+
+Don't quicksort, recompile now,
+It's the only way you'll save,
+All the code that you worked for
+Don't split around the pivot now,
+You need to hear me out,
+When I say merge now
+
+All your code is unchanged,
+And the program runs so slowly,
+That it feels like a death march,
+And you are feeling so uncertain,
+It seems that you're so unexcited by the sloppy code you see
+You choose all your pivots randomly
+But I know you wish you chose me,
+You wish you chose me, don't you?
+
+Don't quicksort, recompile now,
+It's the only way you'll save,
+All the code that you worked for
+Don't split around the pivot now,
+You need to hear me out,
+When I say merge now
+
+Don't quicksort, recompile now,
+It's the only way you'll save,
+All the code that you worked for
+Don't split around the pivot now,
+Your time is running out,
+So I say merge now
+
+You here the data say,
+Merge now or forever hold your peace,
+There's a silence, there's your last chance,
+You stand up with shaking hands,
+And hit delete,
+Horrified looks from engineers in the room,
+And they're only lookin' at you
+
+I am not the kind of sort,
+That can be implemented in place on every occasion,
+But you don't have the kind of list,
+That should be playing well with quick sort
+
+So don't quicksort, recompile now,
+It's the only way you'll save,
+All the code that you worked for
+Don't split around the pivot now,
+You need to hear me out,
+When I say merge now
+
+And you say, I'll recompile now,
+It's time I went and saved all the code that I worked for,
+Worst case is less than n-square now,
+So glad you were around and you said merge now
