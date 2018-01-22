@@ -1,5 +1,5 @@
 Segfaults haunt me, I recompile 'cause I can't see
-What I want and I need, everything those lines should be
+What I want and I'm needing, everything those lines should be
 I'll bet it's horrible, the code that I typed out
 And it lacks every fix that I have to live without
 
@@ -19,7 +19,7 @@ Look at those beautiful lines and know they're lucky 'cause
 
 C's the reason for the teardrops on my spacebar
 The only code that keeps on making my threads fall apart
-I lose all of the chars I keep reading, don't know why I do, why I do
+I lose all of the chars I keep reading, don't know why I do
 
 So I delete the code
 As I turn out the light, I'll use a library
@@ -27,7 +27,7 @@ And maybe get some sleep tonight 'cause
 
 C's the reason for the teardrops on my spacebar
 The only one with all the memory leaks that break my heart
-I lose all of the chars I keep reading, don't know why I do, why I do
+I lose all of the chars I keep reading, don't know why I do
 C's the time taken up, but there's never enough
 And it's all that I need to fall into
 
