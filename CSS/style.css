@@ -37,6 +37,13 @@ h3 {
     overflow: hidden;
 }
 
+/*Tool Logos:*/
+.company-logo {
+    text-align: center;
+    align-content: center;
+    /*width: 50%;*/
+}
+
 .fade-on-hover {
     display: inline-block;
     vertical-align: middle;
